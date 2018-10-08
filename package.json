@@ -1,6 +1,6 @@
 {
   "name": "parcel-plugin-chrome-extension",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "parcel-bundler plugin for chrome extension",
   "main": "index.js",
   "scripts": {
